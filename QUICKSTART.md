@@ -4,12 +4,12 @@
 
 ### 1. Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 2. Start the Application
 ```bash
-python app.py
+python3 app.py
 ```
 
 ### 3. Open Browser

@@ -52,12 +52,12 @@ A professional web application for processing bank transaction data and generati
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 4. **Run the application**
    ```bash
-   python app.py
+   python3 app.py
    ```
 
 5. **Open browser**
